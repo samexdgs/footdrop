@@ -61,7 +61,7 @@ input_data = pd.DataFrame([{
 
 
 # Predict button
-if st.button("Get Recommendedation"):
+if st.button("Get Recommendation"):
     prediction = LABEL_2_EXERCISE.get(model.predict(
         input_data)[0])  # Predict the exercise class
     recommended_treatment = ". ".join(LABEL_2_TREATMENT.get(prediction))
@@ -87,4 +87,4 @@ if st.button("Get Recommendedation"):
 
 # Footer
 st.markdown("---")
-st.markdown("Created with ❤️ by Samuel")
+st.markdown("Created with ❤️ by Samuel Olu")
