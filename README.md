@@ -8,3 +8,5 @@ I co-contributed to the ideation, system design, and overall implementation of t
 The system leverages supervised learning models — including LightGBM, Random Forest, and XGBoost — to analyze user inputs, predict potential causes of gait deviation, and recommend targeted interventions such as exercise regimens or corrective actions.  
 
 This work has been fully documented and is currently under peer review for publication.
+
+Streamlit https://footdrop.streamlit.app/
