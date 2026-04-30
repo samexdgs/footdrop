@@ -10,3 +10,9 @@ The system leverages supervised learning models — including LightGBM, Random F
 This work has been fully documented and is currently under peer review for publication.
 
 Streamlit https://footdrop.streamlit.app/
+
+- Email: (mailto:soluwakoyat@gmail.com),
+- ORCID: (https://orcid.org/0009-0008-2126-0254)
+- GitHub: (https://github.com/samexdgs)
+- LinkedIn: (https://linkedin.com/in/samueloluwakoya)
+- Portfolio:(https://samueloluwakoya.netlify.app)
